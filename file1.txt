@@ -1,2 +1,1 @@
-This is a test file. The format is text.
-A new line has been added.
+This is file 1
